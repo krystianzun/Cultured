@@ -1,0 +1,2716 @@
+{
+    "lens_id": "",
+    "document_id": "CqDvkg37cvgjmLOXx1nf",
+    "original_document_id": "CqDvkg37cvgjmLOXx1nf",
+    "version": "29",
+    "lastChanged": "1671309316613",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "34",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "34",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "White"
+                    ],
+                    [
+                        "Unlit"
+                    ],
+                    [
+                        "cls Proxy Texture"
+                    ],
+                    [
+                        "tv_detection_epoch_40"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "true"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "local:C:\/Users\/kryst\/Documents\/Coding\/Cultured\/ML Model\/tv_test_image_2.png",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1671308753232971:10298"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1671308753232971:10298",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1671308753373804:10339",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1671309099193827:32532",
+                    "name": "cls Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1671309263864445:43510",
+                    "name": "Files\/File15.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1671308728578986:7722",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1671308728471819:7530",
+                "1": "1671308728480135:7589",
+                "2": "1671308728578812:7721"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.dnn"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.onnx"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.dnn"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "968",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Textures\/White.png"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Unlit.lsmat"
+                    },
+                    {
+                        "k": "972",
+                        "v": "tv_detection_epoch_40.onnx"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "969",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "970",
+                        "v": "64dd9603fffe58cd14085df5fa7d4d18"
+                    },
+                    {
+                        "k": "971",
+                        "v": "332d30f30056592aacbf89624569ad61"
+                    },
+                    {
+                        "k": "972",
+                        "v": "332d30f30056592aacbf89624569ad61"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-12-17T20:34:23",
+                        "name": "Public",
+                        "hash": "fd475c291dc0f60e7b34ddbce1339194",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-11-14T19:28:58",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-12-17T20:26:31",
+                                "name": "Textures",
+                                "hash": "6507c3cb5745a68eb0fa565cf851c447",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-17T20:25:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-17T20:25:53",
+                                        "name": "White.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-17T20:18:59",
+                                "name": "tv_detection_epoch_40.onnx",
+                                "hash": "332d30f30056592aacbf89624569ad61",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-17T20:26:31",
+                                "name": "Unlit.lsmat",
+                                "hash": "64dd9603fffe58cd14085df5fa7d4d18",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "White",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1671308753373804:10339",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "969",
+                                "source": "C:\/Users\/kryst\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioUVnGimCxspOO\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unlit",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671308753232971:10298",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "970",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "cls Proxy Texture",
+                        "type": "1",
+                        "subtype": "19",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671309099193827:32532",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "tv_detection_epoch_40",
+                        "type": "22",
+                        "subtype": "0",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671309263864445:43510",
+                        "fileId": "15",
+                        "originalId": "16",
+                        "publicId": "972",
+                        "source": "C:\/Users\/kryst\/Documents\/Coding\/Cultured\/ML Model\/tv_detection_epoch_40\/tv_detection_epoch_40.onnx",
+                        "additional": {
+                            "normalization_data": {
+                                "loc": {
+                                    "scale": [
+                                        "1",
+                                        "1",
+                                        "1",
+                                        "1"
+                                    ],
+                                    "bias": [
+                                        "0",
+                                        "0",
+                                        "0",
+                                        "0"
+                                    ]
+                                },
+                                "data": {
+                                    "scale": [
+                                        "1",
+                                        "1",
+                                        "1"
+                                    ],
+                                    "bias": [
+                                        "0",
+                                        "0",
+                                        "0"
+                                    ]
+                                },
+                                "cls": {
+                                    "scale": [
+                                        "1"
+                                    ],
+                                    "bias": [
+                                        "0"
+                                    ]
+                                }
+                            },
+                            "compatibility_data": [
+                                {
+                                    "layerName": "248",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "249",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "251",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "252",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "254",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "256",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "257",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "259",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "260",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "262",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "264",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "265",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "267",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "268",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "270",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "271",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "273",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "274",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "276",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "277",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "279",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "281",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "282",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "284",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "285",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "287",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "288",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "290",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "291",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "293",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "294",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "296",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "297",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "299",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "300",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "302",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "303",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "305",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "307",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "308",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "310",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "311",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "313",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "314",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "316",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "317",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "319",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "320",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "322",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "323",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "325",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "326",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "328",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "329",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "331",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "332",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "334",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "335",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "337",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "338",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "340",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "342",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "343",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "345",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "346",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "348",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "349",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "351",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "352",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "354",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "355",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "357",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "358",
+                                    "layerType": "eltwise",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "360",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "361",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "389",
+                                    "layerType": "resize",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "false",
+                                            "info": "Positive integer resize ratio is supported"
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "false",
+                                            "info": "Positive integer resize ratio is supported"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "390",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "391",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "cls",
+                                    "layerType": "sigmoid",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "loc",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1671309263864445:43510",
+                        "path_list": [
+                            "tv_detection_epoch_40"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1671309263864445:43510",
+                    "v": {
+                        "infos": {
+                            "originalSize": "193966",
+                            "compressedSize": "193966",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "17",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.34.0"
+}
