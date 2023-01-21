@@ -1,16 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="scripts.js"></script>
+
   <title>Document</title>
 </head>
+
 <body>
     <div id="container">
-        <p id="instruction">Generate image</p>
+        <p id="instruction">Click to generate an image</p>
         <button id="generate">Generate</button>
+
+
+        <!-- Test: show image -->
+        <img id="bigpic" src="bigpic" style="display:none;" />
+
+        <!-- Button with function on click -->
+        <button onclick="picture()">Enlarge</button>
     </div>
 </body>
 </html>
